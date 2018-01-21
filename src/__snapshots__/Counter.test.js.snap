@@ -1,8 +1,14 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`test test should work 1`] = `
-<div>
-  2
+exports[`Counter component should be rendered correctly 1`] = `
+<div
+  className="counter"
+>
+  <div
+    className="number"
+  >
+    Button was clicked 2 times!!!
+  </div>
   <button
     onClick={[Function]}
   >
