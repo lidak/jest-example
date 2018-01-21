@@ -1,0 +1,13 @@
+{
+  "presets": [
+    ["latest", {
+      "es2015": true
+    }]
+
+  ],
+  "plugins": [
+    ["transform-react-jsx", {
+      "pragma": "React.createElement"
+    }]
+  ]
+}

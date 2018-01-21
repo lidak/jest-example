@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test test should work 1`] = `
+<div>
+  2
+  <button
+    onClick={[Function]}
+  >
+    +
+  </button>
+</div>
+`;
