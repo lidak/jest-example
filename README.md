@@ -3,6 +3,6 @@ Contains boilerplate for webpack-es6-react-jest stack setup.
 Few examples of component unit tests.
 
 
-```npm install```- install/update packages;
-
-```npm test``` - run tests using Jest.
+* ```npm install```- install/update packages;
+* ```npm test``` - run tests using Jest;
+* ```npm build``` - build ```./src``` into ```./build``` folder using webpack;
